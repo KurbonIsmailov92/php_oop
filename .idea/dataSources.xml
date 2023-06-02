@@ -5,7 +5,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://192.168.15.197:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://192.168.15.197:5432/core</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="core_reports@192.168.14.9" uuid="d367847b-052e-4a35-8f74-200d0b7932f8">
